@@ -8,7 +8,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import fr.pierre.tchatback.entity.Conversation;
 import fr.pierre.tchatback.entity.Message;
-import fr.pierre.tchatback.entity.User;
 import fr.pierre.tchatback.respository.MessageRepository;
 
 @Service
